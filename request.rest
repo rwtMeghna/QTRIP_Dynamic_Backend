@@ -1,0 +1,10 @@
+POST 
+http://localhost:8082/reservation/new
+Content-Type: application/json
+
+{
+    "name":megha,
+    "date": Sep 28 2023 18:01:56 GMT+0530 (India Standard Time),
+    "person":5,
+    "adventure":3409781073
+}
